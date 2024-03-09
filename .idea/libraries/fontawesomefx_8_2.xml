@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="fontawesomefx-8.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Scence_Builder_lib/fontawesomefx-8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Scence_Builder_lib/jfoenix-9.0.10.jar!/" />
+      <root url="file://$javafx_19$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$javafx_19$" recursive="false" />
+  </library>
+</component>
